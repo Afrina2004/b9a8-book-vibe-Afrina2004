@@ -1,0 +1,43 @@
+/* Global Styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Flex and Grid settings */
+  .container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  @media (min-width: 768px) {
+    .container {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+  
+  /* Responsive Typography */
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    line-height: 1.2;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  @media (min-width: 768px) {
+    h1 {
+      font-size: 3em;
+    }
+  }
+  
+  /* Responsive Images */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  

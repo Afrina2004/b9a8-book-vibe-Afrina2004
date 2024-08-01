@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "bookName": "The Lost Island",
+      "author": " James Norman",
+      "image":"https://i.ibb.co/fYCYyFB/763537532.jpg",
+      "review": "An intriguing tale of adventure and discovery on a deserted island.",
+      "totalPages": 320,
+      "rating": 4.7,
+      "category": "Adventure",
+      "tags": ["Suspense", "Mystery"],
+      "publisher": "Popular Library",
+      "yearOfPublishing":  1974
+    },
+    {
+      "id": 2,
+      "bookName": "Cook for Me",
+      "author": "Alexander McCall Smith ",
+      "image":"https://i.ibb.co/1LSkH5W/1.jpg",
+      "review": "A delightful collection of recipes that bring joy to the kitchen.",
+      "totalPages": 200,
+      "rating": 4.5,
+      "category": "Cooking",
+      "tags": ["Food", "Lifestyle"],
+      "publisher": "Gourmet Press",
+      "yearOfPublishing": 2019
+    },
+    {
+      "id": 3,
+      "bookName": "The Future of AI",
+      "author": "Alex Johnson",
+      "image":"https://i.ibb.co/XLRb3hF/9781394219247-p0-v2-s1200x630.jpg",
+      "review": "A comprehensive look at the advancements and implications of artificial intelligence.",
+      "totalPages": 450,
+      "rating": 4.9,
+      "category": "Technology",
+      "tags": ["AI", "Innovation"],
+      "publisher": "TechWorld",
+      "yearOfPublishing": 2022
+    },
+    {
+      "id": 4,
+      "bookName": "House Plants",
+      "author": "Mike Maunder",
+      "image":"https://i.ibb.co/WzRvQqx/1.jpg",
+      "review": "An easy-to-follow guide for anyone looking to start their own garden.",
+      "totalPages": 212,
+      "rating": 4.3,
+      "category": "Gardening",
+      "tags": ["Plants", "Indoors"],
+      "publisher": "Green Thumb",
+      "yearOfPublishing": 2019
+    },
+    {
+      "id": 5,
+      "bookName": "Space: The Final Frontier",
+      "author": "Michael Lee",
+      "image": "https://i.ibb.co/F4RMSwf/s-l1600.webp",
+      "review": "An exploration of the mysteries and wonders of the universe.",
+      "totalPages": 360,
+      "rating": 4.8,
+      "category": "Science",
+      "tags": ["Space", "Astronomy"],
+      "publisher": "Cosmic Publishing",
+      "yearOfPublishing": 2020
+    },
+    {
+      "id": 6,
+      "bookName": "The Art of Meditation",
+      "author": "Sophia Davis",
+      "image":"https://i.ibb.co/bW6X40x/71-Tq7-Bb-Pm-XL-SL1360.jpg",
+      "review": "A guide to achieving inner peace and mindfulness through meditation.",
+      "totalPages": 150,
+      "rating": 4.6,
+      "category": "Self-Help",
+      "tags": ["Mindfulness", "Wellness"],
+      "publisher": "Harmony Books",
+      "yearOfPublishing": 2021
+    }
+  ]
+  
