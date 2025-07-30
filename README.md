@@ -39,12 +39,8 @@ A modern responsive web app built with React, Tailwind CSS, and Vite. This proje
 1. **Clone the repository**
    ```bash
    https://github.com/Afrina2004/b9a8-book-vibe-Afrina2004.git
-   cd my-project
+   
 
 
 
-
-bash
-Copy code
-npm run preview
 
